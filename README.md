@@ -1,46 +1,19 @@
-# WhatsApp-Cleaner ![](https://img.shields.io/badge/build-passing-brightgreen.svg)
-This app is the powerful tool to clean and backup received and sent media via WhatsApp. 
+##Fast Cleaner App
+Fast Cleaner could be a cleaner android application that aims at providing the user to decide on and remove the unwanted WhatsApp media from the phone. It comprehensively covers all kinds of media together with pictures, documents, videos, audios and gifs. This document provides all the desired specifications of the android application.
 
-## Features
+The application contains following in-built features-
+	All WhatsApp media at one place
+	Viewing the storage taken up by WhatsApp media
+	Previewing sent and received media
+	Selecting the items to be deleted
 
-  * [x] All WhatsApp Media in the same place
-  * [x] Delete a specified WhatsApp media file (image, video, status, audio, voice note, document...) or all media files by an easy click
-  * [x] Status saver and cleaner.
-  * [x] Preview the sent and received media separately.
-  * [x] High-quality design and a user-friendly interface.
-
-### Show some :heart: and star the repo to support the project
 
 ## Screenshots
 
-### HomeScreen
-<img src="./screenshots/main.jpg" width=30%>
+![image](https://user-images.githubusercontent.com/71590973/119443276-f6265600-bd46-11eb-9bca-909c8e155ea1.png)
+![image](https://user-images.githubusercontent.com/71590973/119443279-f9214680-bd46-11eb-9c8f-0efe93b57c80.png)
+![image](https://user-images.githubusercontent.com/71590973/119443285-faeb0a00-bd46-11eb-8239-68df9b51065f.png)
+![image](https://user-images.githubusercontent.com/71590973/119443291-fde5fa80-bd46-11eb-90ee-38ff257c4604.png)
+![image](https://user-images.githubusercontent.com/71590973/119443294-00485480-bd47-11eb-8593-49fad1f730b8.png)
 
-### Documents Section
-<img src="./screenshots/doc.jpg" width=30%>
 
-### Delete Your Files
-<img src="./screenshots/delete.jpg" width=30%>
-
-### Download Your Statuses
-<img src="./screenshots/status.jpg" width=30%>
-
-## Contribution Guidelines
-Any kind of contribution to the project is highly welcomed, as this project is selected for KWoC, we encourage all participants new to open source to give it a try. Any one willing to contribute to this particular project must follow the contribution for cleanliness, easy to read and smooth working of the project,</br>
-1. Raise an issue before you make a pr.</br>
-2. Changes should be pushed in the development branch.</br>
-3. Squash all your commits in to a single commit before creating a pull request.</br>
-4. If the pr for the issue isn't raised within 2 weeks, the issue can be assigned to another person.</br>
-
-# Pull Requests
-
-We welcome and encourage all pull requests. It usually will take us within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
-
-1.  Match coding style (braces, spacing, etc.) This is best achieved using `Reformat Code` feature of Android Studio `CMD`+`Option`+`L` on Mac and `CTRL` + `ALT` + `L` on Linux + Windows .
-2.  If its a feature, bugfix, or anything please only change code to what you specify.
-3.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
-4.  Pull requests _must_ be made against `develop` branch. Any other branch (unless specified by the maintainers) will get rejected.
-5.  Check for existing [issues](https://github.com/Pawan0411/WhtasApp-Cleaner/issues) first, before filing an issue.
-6.  Make sure you follow the set standard as all other projects in this repo do
-7.  Have fun!
-#App

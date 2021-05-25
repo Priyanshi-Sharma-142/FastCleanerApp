@@ -1,4 +1,5 @@
-##Fast Cleaner App
+## Fast Cleaner App
+
 Fast Cleaner could be a cleaner android application that aims at providing the user to decide on and remove the unwanted WhatsApp media from the phone. It comprehensively covers all kinds of media together with pictures, documents, videos, audios and gifs. This document provides all the desired specifications of the android application.
 
 The application contains following in-built features-
